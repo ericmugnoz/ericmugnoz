@@ -46,7 +46,7 @@ local de CID v3.
 
 ☕ [buymeacoffee.com/ericmunoz](https://buymeacoffee.com/ericmunoz)
 📖 Libros: busca *"Eric Muñoz"* en Amazon
-✉️ Contacto: [tu email si quieres ponerlo]
+✉️ Contacto: []
 
 ## Actividad en el laboratorio
 
