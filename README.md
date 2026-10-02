@@ -44,7 +44,7 @@ Los libros y las donaciones financian el laboratorio íntegro.
 Primera meta: 10.000 € para el primer ordenador de entrenamiento
 local de CID v3.
 
-☕ [buymeacoffee.com/ericmunoz](https://buymeacoffee.com/ericmunoz)
+☕ [buymeacoffee.com/ericmunoz](buymeacoffee.com/ericmunoz)
 📖 Libros: busca *"Eric Muñoz"* en Amazon
 ✉️ Contacto: []
 
